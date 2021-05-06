@@ -4,12 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>jQuery UI Autocomplete - Default functionality</title>
-  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-  <link rel="stylesheet" href="/resources/demos/style.css">
+  <!--<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css"> -->
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   
-  <script src="https://dveithpu.github.io/Survey-Scripts/list.js"></script>
+  <!--<script src="https://dveithpu.github.io/Survey-Scripts/list.js"></script> -->
+  <script src="occupations.js"></script>
   <script>
   $( function() {
   
@@ -17,9 +18,18 @@
       minLength: 3,
 	  //source: jobList
 	  source: function(request, response) {
-        var results = jQuery.ui.autocomplete.filter(jobList, request.term);
+        var results = jQuery.ui.autocomplete.filter(occupation_names, request.term);
         
         response(results.slice(0, 10));
+		
+    },
+	select: function(event, ui) {
+      var e = ui.item;
+	  var id = occupation_names.indexOf(e.label);
+	  console.log("id is" + id);
+	  console.log(occupation_codes[id]);
+      var result = "<p>label : " + e.label + " - id : " + e.id + "</p>";
+      $("#result").append(result);
     }
 	  
     });
@@ -31,6 +41,9 @@
 <div class="ui-widget">
   <label for="tags">Tags: </label>
   <input id="tags">
+  
+  <p id="result"> 
+  
 </div>
  
  

@@ -12,25 +12,13 @@ var occupation_names = [
      "Chief Executives"
   ,
   
-     "Chief Executives"
-  ,
-  
      "General and Operations Managers"
-  ,
-  
-     "General and Operations Managers"
-  ,
-  
-     "Legislators"
   ,
   
      "Legislators"
   ,
   
      "Advertising, Marketing, Promotions, Public Relations, and Sales Managers"
-  ,
-  
-     "Advertising and Promotions Managers"
   ,
   
      "Advertising and Promotions Managers"
@@ -48,25 +36,13 @@ var occupation_names = [
      "Public Relations and Fundraising Managers"
   ,
   
-     "Public Relations and Fundraising Managers"
-  ,
-  
      "Operations Specialties Managers"
   ,
   
      "Administrative Services and Facilities Managers"
   ,
   
-     "Administrative Services and Facilities Managers"
-  ,
-  
      "Computer and Information Systems Managers"
-  ,
-  
-     "Computer and Information Systems Managers"
-  ,
-  
-     "Financial Managers"
   ,
   
      "Financial Managers"
@@ -75,16 +51,7 @@ var occupation_names = [
      "Industrial Production Managers"
   ,
   
-     "Industrial Production Managers"
-  ,
-  
      "Purchasing Managers"
-  ,
-  
-     "Purchasing Managers"
-  ,
-  
-     "Transportation, Storage, and Distribution Managers"
   ,
   
      "Transportation, Storage, and Distribution Managers"
@@ -93,16 +60,7 @@ var occupation_names = [
      "Compensation and Benefits Managers"
   ,
   
-     "Compensation and Benefits Managers"
-  ,
-  
      "Human Resources Managers"
-  ,
-  
-     "Human Resources Managers"
-  ,
-  
-     "Training and Development Managers"
   ,
   
      "Training and Development Managers"
@@ -112,12 +70,6 @@ var occupation_names = [
   ,
   
      "Farmers, Ranchers, and Other Agricultural Managers"
-  ,
-  
-     "Farmers, Ranchers, and Other Agricultural Managers"
-  ,
-  
-     "Construction Managers"
   ,
   
      "Construction Managers"
@@ -141,12 +93,6 @@ var occupation_names = [
      "Architectural and Engineering Managers"
   ,
   
-     "Architectural and Engineering Managers"
-  ,
-  
-     "Food Service Managers"
-  ,
-  
      "Food Service Managers"
   ,
   
@@ -156,16 +102,7 @@ var occupation_names = [
      "Lodging Managers"
   ,
   
-     "Lodging Managers"
-  ,
-  
      "Medical and Health Services Managers"
-  ,
-  
-     "Medical and Health Services Managers"
-  ,
-  
-     "Natural Sciences Managers"
   ,
   
      "Natural Sciences Managers"
@@ -174,22 +111,10 @@ var occupation_names = [
      "Postmasters and Mail Superintendents"
   ,
   
-     "Postmasters and Mail Superintendents"
-  ,
-  
-     "Property, Real Estate, and Community Association Managers"
-  ,
-  
      "Property, Real Estate, and Community Association Managers"
   ,
   
      "Social and Community Service Managers"
-  ,
-  
-     "Social and Community Service Managers"
-  ,
-  
-     "Emergency Management Directors"
   ,
   
      "Emergency Management Directors"
@@ -210,12 +135,6 @@ var occupation_names = [
      "Agents and Business Managers of Artists, Performers, and Athletes"
   ,
   
-     "Agents and Business Managers of Artists, Performers, and Athletes"
-  ,
-  
-     "Buyers and Purchasing Agents"
-  ,
-  
      "Buyers and Purchasing Agents"
   ,
   
@@ -229,12 +148,6 @@ var occupation_names = [
   ,
   
      "Compliance Officers"
-  ,
-  
-     "Compliance Officers"
-  ,
-  
-     "Cost Estimators"
   ,
   
      "Cost Estimators"
@@ -258,16 +171,7 @@ var occupation_names = [
      "Management Analysts"
   ,
   
-     "Management Analysts"
-  ,
-  
      "Meeting, Convention, and Event Planners"
-  ,
-  
-     "Meeting, Convention, and Event Planners"
-  ,
-  
-     "Fundraisers"
   ,
   
      "Fundraisers"
@@ -276,16 +180,7 @@ var occupation_names = [
      "Compensation, Benefits, and Job Analysis Specialists"
   ,
   
-     "Compensation, Benefits, and Job Analysis Specialists"
-  ,
-  
      "Training and Development Specialists"
-  ,
-  
-     "Training and Development Specialists"
-  ,
-  
-     "Market Research Analysts and Marketing Specialists"
   ,
   
      "Market Research Analysts and Marketing Specialists"
@@ -300,22 +195,10 @@ var occupation_names = [
      "Accountants and Auditors"
   ,
   
-     "Accountants and Auditors"
-  ,
-  
-     "Property Appraisers and Assessors"
-  ,
-  
      "Property Appraisers and Assessors"
   ,
   
      "Budget Analysts"
-  ,
-  
-     "Budget Analysts"
-  ,
-  
-     "Credit Analysts"
   ,
   
      "Credit Analysts"
@@ -325,9 +208,6 @@ var occupation_names = [
   ,
   
      "Insurance Underwriters"
-  ,
-  
-     "Financial Examiners"
   ,
   
      "Financial Examiners"
@@ -367,9 +247,6 @@ var occupation_names = [
   ,
   
      "Information Security Analysts"
-  ,
-  
-     "Computer and Information Research Scientists"
   ,
   
      "Computer and Information Research Scientists"
@@ -420,22 +297,10 @@ var occupation_names = [
      "Actuaries"
   ,
   
-     "Actuaries"
-  ,
-  
-     "Mathematicians"
-  ,
-  
      "Mathematicians"
   ,
   
      "Operations Research Analysts"
-  ,
-  
-     "Operations Research Analysts"
-  ,
-  
-     "Statisticians"
   ,
   
      "Statisticians"
@@ -474,16 +339,7 @@ var occupation_names = [
      "Aerospace Engineers"
   ,
   
-     "Aerospace Engineers"
-  ,
-  
      "Agricultural Engineers"
-  ,
-  
-     "Agricultural Engineers"
-  ,
-  
-     "Bioengineers and Biomedical Engineers"
   ,
   
      "Bioengineers and Biomedical Engineers"
@@ -492,16 +348,7 @@ var occupation_names = [
      "Chemical Engineers"
   ,
   
-     "Chemical Engineers"
-  ,
-  
      "Civil Engineers"
-  ,
-  
-     "Civil Engineers"
-  ,
-  
-     "Computer Hardware Engineers"
   ,
   
      "Computer Hardware Engineers"
@@ -519,9 +366,6 @@ var occupation_names = [
      "Environmental Engineers"
   ,
   
-     "Environmental Engineers"
-  ,
-  
      "Industrial Engineers, Including Health and Safety"
   ,
   
@@ -534,16 +378,7 @@ var occupation_names = [
      "Marine Engineers and Naval Architects"
   ,
   
-     "Marine Engineers and Naval Architects"
-  ,
-  
      "Materials Engineers"
-  ,
-  
-     "Materials Engineers"
-  ,
-  
-     "Mechanical Engineers"
   ,
   
      "Mechanical Engineers"
@@ -552,16 +387,7 @@ var occupation_names = [
      "Mining and Geological Engineers, Including Mining Safety Engineers"
   ,
   
-     "Mining and Geological Engineers, Including Mining Safety Engineers"
-  ,
-  
      "Nuclear Engineers"
-  ,
-  
-     "Nuclear Engineers"
-  ,
-  
-     "Petroleum Engineers"
   ,
   
      "Petroleum Engineers"
@@ -613,9 +439,6 @@ var occupation_names = [
   ,
   
      "Mechanical Engineering Technologists and Technicians"
-  ,
-  
-     "Surveying and Mapping Technicians"
   ,
   
      "Surveying and Mapping Technicians"
@@ -696,9 +519,6 @@ var occupation_names = [
      "Atmospheric and Space Scientists"
   ,
   
-     "Atmospheric and Space Scientists"
-  ,
-  
      "Chemists and Materials Scientists"
   ,
   
@@ -732,12 +552,6 @@ var occupation_names = [
      "Economists"
   ,
   
-     "Economists"
-  ,
-  
-     "Survey Researchers"
-  ,
-  
      "Survey Researchers"
   ,
   
@@ -754,12 +568,6 @@ var occupation_names = [
   ,
   
      "Sociologists"
-  ,
-  
-     "Sociologists"
-  ,
-  
-     "Urban and Regional Planners"
   ,
   
      "Urban and Regional Planners"
@@ -789,16 +597,7 @@ var occupation_names = [
      "Agricultural and Food Science Technicians"
   ,
   
-     "Agricultural and Food Science Technicians"
-  ,
-  
      "Biological Technicians"
-  ,
-  
-     "Biological Technicians"
-  ,
-  
-     "Chemical Technicians"
   ,
   
      "Chemical Technicians"
@@ -816,16 +615,7 @@ var occupation_names = [
      "Nuclear Technicians"
   ,
   
-     "Nuclear Technicians"
-  ,
-  
      "Social Science Research Assistants"
-  ,
-  
-     "Social Science Research Assistants"
-  ,
-  
-     "Forest and Conservation Technicians"
   ,
   
      "Forest and Conservation Technicians"
@@ -838,9 +628,6 @@ var occupation_names = [
   ,
   
      "Life, Physical, and Social Science Technicians, All Other"
-  ,
-  
-     "Occupational Health and Safety Specialists and Technicians"
   ,
   
      "Occupational Health and Safety Specialists and Technicians"
@@ -915,12 +702,6 @@ var occupation_names = [
      "Clergy"
   ,
   
-     "Clergy"
-  ,
-  
-     "Directors, Religious Activities and Education"
-  ,
-  
      "Directors, Religious Activities and Education"
   ,
   
@@ -963,9 +744,6 @@ var occupation_names = [
      "Paralegals and Legal Assistants"
   ,
   
-     "Paralegals and Legal Assistants"
-  ,
-  
      "Miscellaneous Legal Support Workers"
   ,
   
@@ -979,9 +757,6 @@ var occupation_names = [
   ,
   
      "Postsecondary Teachers"
-  ,
-  
-     "Business Teachers, Postsecondary"
   ,
   
      "Business Teachers, Postsecondary"
@@ -1182,16 +957,7 @@ var occupation_names = [
      "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
   ,
   
-     "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
-  ,
-  
      "Self-Enrichment Teachers"
-  ,
-  
-     "Self-Enrichment Teachers"
-  ,
-  
-     "Substitute Teachers, Short-Term"
   ,
   
      "Substitute Teachers, Short-Term"
@@ -1218,12 +984,6 @@ var occupation_names = [
      "Librarians and Media Collections Specialists"
   ,
   
-     "Librarians and Media Collections Specialists"
-  ,
-  
-     "Library Technicians"
-  ,
-  
      "Library Technicians"
   ,
   
@@ -1231,12 +991,6 @@ var occupation_names = [
   ,
   
      "Farm and Home Management Educators"
-  ,
-  
-     "Farm and Home Management Educators"
-  ,
-  
-     "Instructional Coordinators"
   ,
   
      "Instructional Coordinators"
@@ -1353,13 +1107,7 @@ var occupation_names = [
      "Miscellaneous Entertainers and Performers, Sports and Related Workers"
   ,
   
-     "Miscellaneous Entertainers and Performers, Sports and Related Workers"
-  ,
-  
      "Media and Communication Workers"
-  ,
-  
-     "Broadcast Announcers and Radio Disc Jockeys"
   ,
   
      "Broadcast Announcers and Radio Disc Jockeys"
@@ -1369,9 +1117,6 @@ var occupation_names = [
   ,
   
      "News Analysts, Reporters, and Journalists"
-  ,
-  
-     "Public Relations Specialists"
   ,
   
      "Public Relations Specialists"
@@ -1416,9 +1161,6 @@ var occupation_names = [
      "Photographers"
   ,
   
-     "Photographers"
-  ,
-  
      "Television, Video, and Film Camera Operators and Editors"
   ,
   
@@ -1435,9 +1177,6 @@ var occupation_names = [
   ,
   
      "Healthcare Diagnosing or Treating Practitioners"
-  ,
-  
-     "Chiropractors"
   ,
   
      "Chiropractors"
@@ -1464,28 +1203,13 @@ var occupation_names = [
      "Dietitians and Nutritionists"
   ,
   
-     "Dietitians and Nutritionists"
-  ,
-  
-     "Optometrists"
-  ,
-  
      "Optometrists"
   ,
   
      "Pharmacists"
   ,
   
-     "Pharmacists"
-  ,
-  
      "Physician Assistants"
-  ,
-  
-     "Physician Assistants"
-  ,
-  
-     "Podiatrists"
   ,
   
      "Podiatrists"
@@ -1521,16 +1245,7 @@ var occupation_names = [
      "Veterinarians"
   ,
   
-     "Veterinarians"
-  ,
-  
      "Registered Nurses"
-  ,
-  
-     "Registered Nurses"
-  ,
-  
-     "Nurse Anesthetists"
   ,
   
      "Nurse Anesthetists"
@@ -1539,16 +1254,7 @@ var occupation_names = [
      "Nurse Midwives"
   ,
   
-     "Nurse Midwives"
-  ,
-  
      "Nurse Practitioners"
-  ,
-  
-     "Nurse Practitioners"
-  ,
-  
-     "Audiologists"
   ,
   
      "Audiologists"
@@ -1593,9 +1299,6 @@ var occupation_names = [
      "Clinical Laboratory Technologists and Technicians"
   ,
   
-     "Clinical Laboratory Technologists and Technicians"
-  ,
-  
      "Cardiovascular Technologists and Technicians"
   ,
   
@@ -1609,9 +1312,6 @@ var occupation_names = [
   ,
   
      "Magnetic Resonance Imaging Technologists"
-  ,
-  
-     "Emergency Medical Technicians and Paramedics"
   ,
   
      "Emergency Medical Technicians and Paramedics"
@@ -1639,12 +1339,6 @@ var occupation_names = [
   ,
   
      "Licensed Practical and Licensed Vocational Nurses"
-  ,
-  
-     "Licensed Practical and Licensed Vocational Nurses"
-  ,
-  
-     "Opticians, Dispensing"
   ,
   
      "Opticians, Dispensing"
@@ -1675,9 +1369,6 @@ var occupation_names = [
   ,
   
      "Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides"
-  ,
-  
-     "Home Health and Personal Care Aides"
   ,
   
      "Home Health and Personal Care Aides"
@@ -1717,9 +1408,6 @@ var occupation_names = [
   ,
   
      "Other Healthcare Support Occupations"
-  ,
-  
-     "Massage Therapists"
   ,
   
      "Massage Therapists"
@@ -1770,19 +1458,10 @@ var occupation_names = [
      "First-Line Supervisors of Firefighting and Prevention Workers"
   ,
   
-     "First-Line Supervisors of Firefighting and Prevention Workers"
-  ,
-  
-     "Miscellaneous First-Line Supervisors, Protective Service Workers"
-  ,
-  
      "Miscellaneous First-Line Supervisors, Protective Service Workers"
   ,
   
      "Firefighting and Prevention Workers"
-  ,
-  
-     "Firefighters"
   ,
   
      "Firefighters"
@@ -1812,16 +1491,7 @@ var occupation_names = [
      "Detectives and Criminal Investigators"
   ,
   
-     "Detectives and Criminal Investigators"
-  ,
-  
      "Fish and Game Wardens"
-  ,
-  
-     "Fish and Game Wardens"
-  ,
-  
-     "Parking Enforcement Workers"
   ,
   
      "Parking Enforcement Workers"
@@ -1840,12 +1510,6 @@ var occupation_names = [
   ,
   
      "Animal Control Workers"
-  ,
-  
-     "Animal Control Workers"
-  ,
-  
-     "Private Detectives and Investigators"
   ,
   
      "Private Detectives and Investigators"
@@ -1876,9 +1540,6 @@ var occupation_names = [
   ,
   
      "Food Preparation and Serving Related Occupations"
-  ,
-  
-     "Supervisors of Food Preparation and Serving Workers"
   ,
   
      "Supervisors of Food Preparation and Serving Workers"
@@ -1917,31 +1578,16 @@ var occupation_names = [
      "Food Preparation Workers"
   ,
   
-     "Food Preparation Workers"
-  ,
-  
      "Food and Beverage Serving Workers"
   ,
   
      "Bartenders"
   ,
   
-     "Bartenders"
-  ,
-  
-     "Fast Food and Counter Workers"
-  ,
-  
      "Fast Food and Counter Workers"
   ,
   
      "Waiters and Waitresses"
-  ,
-  
-     "Waiters and Waitresses"
-  ,
-  
-     "Food Servers, Nonrestaurant"
   ,
   
      "Food Servers, Nonrestaurant"
@@ -1953,16 +1599,7 @@ var occupation_names = [
      "Dining Room and Cafeteria Attendants and Bartender Helpers"
   ,
   
-     "Dining Room and Cafeteria Attendants and Bartender Helpers"
-  ,
-  
      "Dishwashers"
-  ,
-  
-     "Dishwashers"
-  ,
-  
-     "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
   ,
   
      "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
@@ -2007,12 +1644,6 @@ var occupation_names = [
      "Pest Control Workers"
   ,
   
-     "Pest Control Workers"
-  ,
-  
-     "Grounds Maintenance Workers"
-  ,
-  
      "Grounds Maintenance Workers"
   ,
   
@@ -2046,12 +1677,6 @@ var occupation_names = [
      "Animal Trainers"
   ,
   
-     "Animal Trainers"
-  ,
-  
-     "Animal Caretakers"
-  ,
-  
      "Animal Caretakers"
   ,
   
@@ -2071,12 +1696,6 @@ var occupation_names = [
   ,
   
      "Motion Picture Projectionists"
-  ,
-  
-     "Motion Picture Projectionists"
-  ,
-  
-     "Ushers, Lobby Attendants, and Ticket Takers"
   ,
   
      "Ushers, Lobby Attendants, and Ticket Takers"
@@ -2101,12 +1720,6 @@ var occupation_names = [
   ,
   
      "Funeral Attendants"
-  ,
-  
-     "Funeral Attendants"
-  ,
-  
-     "Morticians, Undertakers, and Funeral Arrangers"
   ,
   
      "Morticians, Undertakers, and Funeral Arrangers"
@@ -2142,9 +1755,6 @@ var occupation_names = [
      "Baggage Porters, Bellhops, and Concierges"
   ,
   
-     "Baggage Porters, Bellhops, and Concierges"
-  ,
-  
      "Baggage Porters and Bellhops"
   ,
   
@@ -2152,15 +1762,6 @@ var occupation_names = [
   ,
   
      "Tour and Travel Guides"
-  ,
-  
-     "Tour and Travel Guides"
-  ,
-  
-     "Tour and Travel Guides"
-  ,
-  
-     "Childcare Workers"
   ,
   
      "Childcare Workers"
@@ -2173,9 +1774,6 @@ var occupation_names = [
   ,
   
      "Recreation Workers"
-  ,
-  
-     "Residential Advisors"
   ,
   
      "Residential Advisors"
@@ -2205,9 +1803,6 @@ var occupation_names = [
      "Cashiers"
   ,
   
-     "Cashiers"
-  ,
-  
      "Gambling Change Persons and Booth Cashiers"
   ,
   
@@ -2223,31 +1818,16 @@ var occupation_names = [
      "Retail Salespersons"
   ,
   
-     "Retail Salespersons"
-  ,
-  
      "Sales Representatives, Services"
   ,
   
      "Advertising Sales Agents"
   ,
   
-     "Advertising Sales Agents"
-  ,
-  
-     "Insurance Sales Agents"
-  ,
-  
      "Insurance Sales Agents"
   ,
   
      "Securities, Commodities, and Financial Services Sales Agents"
-  ,
-  
-     "Securities, Commodities, and Financial Services Sales Agents"
-  ,
-  
-     "Travel Agents"
   ,
   
      "Travel Agents"
@@ -2257,9 +1837,6 @@ var occupation_names = [
   ,
   
      "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
-  ,
-  
-     "Sales Representatives, Wholesale and Manufacturing"
   ,
   
      "Sales Representatives, Wholesale and Manufacturing"
@@ -2295,12 +1872,6 @@ var occupation_names = [
      "Sales Engineers"
   ,
   
-     "Sales Engineers"
-  ,
-  
-     "Telemarketers"
-  ,
-  
      "Telemarketers"
   ,
   
@@ -2322,19 +1893,10 @@ var occupation_names = [
      "First-Line Supervisors of Office and Administrative Support Workers"
   ,
   
-     "First-Line Supervisors of Office and Administrative Support Workers"
-  ,
-  
      "Communications Equipment Operators"
   ,
   
      "Switchboard Operators, Including Answering Service"
-  ,
-  
-     "Switchboard Operators, Including Answering Service"
-  ,
-  
-     "Telephone Operators"
   ,
   
      "Telephone Operators"
@@ -2352,16 +1914,7 @@ var occupation_names = [
      "Bill and Account Collectors"
   ,
   
-     "Bill and Account Collectors"
-  ,
-  
      "Billing and Posting Clerks"
-  ,
-  
-     "Billing and Posting Clerks"
-  ,
-  
-     "Bookkeeping, Accounting, and Auditing Clerks"
   ,
   
      "Bookkeeping, Accounting, and Auditing Clerks"
@@ -2370,22 +1923,10 @@ var occupation_names = [
      "Gambling Cage Workers"
   ,
   
-     "Gambling Cage Workers"
-  ,
-  
-     "Payroll and Timekeeping Clerks"
-  ,
-  
      "Payroll and Timekeeping Clerks"
   ,
   
      "Procurement Clerks"
-  ,
-  
-     "Procurement Clerks"
-  ,
-  
-     "Tellers"
   ,
   
      "Tellers"
@@ -2403,16 +1944,7 @@ var occupation_names = [
      "Brokerage Clerks"
   ,
   
-     "Brokerage Clerks"
-  ,
-  
      "Correspondence Clerks"
-  ,
-  
-     "Correspondence Clerks"
-  ,
-  
-     "Court, Municipal, and License Clerks"
   ,
   
      "Court, Municipal, and License Clerks"
@@ -2421,16 +1953,7 @@ var occupation_names = [
      "Credit Authorizers, Checkers, and Clerks"
   ,
   
-     "Credit Authorizers, Checkers, and Clerks"
-  ,
-  
      "Customer Service Representatives"
-  ,
-  
-     "Customer Service Representatives"
-  ,
-  
-     "Eligibility Interviewers, Government Programs"
   ,
   
      "Eligibility Interviewers, Government Programs"
@@ -2439,16 +1962,7 @@ var occupation_names = [
      "File Clerks"
   ,
   
-     "File Clerks"
-  ,
-  
      "Hotel, Motel, and Resort Desk Clerks"
-  ,
-  
-     "Hotel, Motel, and Resort Desk Clerks"
-  ,
-  
-     "Interviewers, Except Eligibility and Loan"
   ,
   
      "Interviewers, Except Eligibility and Loan"
@@ -2457,16 +1971,7 @@ var occupation_names = [
      "Library Assistants, Clerical"
   ,
   
-     "Library Assistants, Clerical"
-  ,
-  
      "Loan Interviewers and Clerks"
-  ,
-  
-     "Loan Interviewers and Clerks"
-  ,
-  
-     "New Accounts Clerks"
   ,
   
      "New Accounts Clerks"
@@ -2475,22 +1980,10 @@ var occupation_names = [
      "Order Clerks"
   ,
   
-     "Order Clerks"
-  ,
-  
-     "Human Resources Assistants, Except Payroll and Timekeeping"
-  ,
-  
      "Human Resources Assistants, Except Payroll and Timekeeping"
   ,
   
      "Receptionists and Information Clerks"
-  ,
-  
-     "Receptionists and Information Clerks"
-  ,
-  
-     "Reservation and Transportation Ticket Agents and Travel Clerks"
   ,
   
      "Reservation and Transportation Ticket Agents and Travel Clerks"
@@ -2508,12 +2001,6 @@ var occupation_names = [
      "Cargo and Freight Agents"
   ,
   
-     "Cargo and Freight Agents"
-  ,
-  
-     "Couriers and Messengers"
-  ,
-  
      "Couriers and Messengers"
   ,
   
@@ -2524,9 +2011,6 @@ var occupation_names = [
   ,
   
      "Dispatchers, Except Police, Fire, and Ambulance"
-  ,
-  
-     "Meter Readers, Utilities"
   ,
   
      "Meter Readers, Utilities"
@@ -2547,22 +2031,10 @@ var occupation_names = [
      "Production, Planning, and Expediting Clerks"
   ,
   
-     "Production, Planning, and Expediting Clerks"
-  ,
-  
-     "Shipping, Receiving, and Inventory Clerks"
-  ,
-  
      "Shipping, Receiving, and Inventory Clerks"
   ,
   
      "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
-  ,
-  
-     "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
-  ,
-  
-     "Secretaries and Administrative Assistants"
   ,
   
      "Secretaries and Administrative Assistants"
@@ -2595,16 +2067,7 @@ var occupation_names = [
      "Desktop Publishers"
   ,
   
-     "Desktop Publishers"
-  ,
-  
      "Insurance Claims and Policy Processing Clerks"
-  ,
-  
-     "Insurance Claims and Policy Processing Clerks"
-  ,
-  
-     "Mail Clerks and Mail Machine Operators, Except Postal Service"
   ,
   
      "Mail Clerks and Mail Machine Operators, Except Postal Service"
@@ -2613,22 +2076,10 @@ var occupation_names = [
      "Office Clerks, General"
   ,
   
-     "Office Clerks, General"
-  ,
-  
-     "Office Machine Operators, Except Computer"
-  ,
-  
      "Office Machine Operators, Except Computer"
   ,
   
      "Proofreaders and Copy Markers"
-  ,
-  
-     "Proofreaders and Copy Markers"
-  ,
-  
-     "Statistical Assistants"
   ,
   
      "Statistical Assistants"
@@ -2649,25 +2100,13 @@ var occupation_names = [
      "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
   ,
   
-     "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
-  ,
-  
      "Agricultural Workers"
   ,
   
      "Agricultural Inspectors"
   ,
   
-     "Agricultural Inspectors"
-  ,
-  
      "Animal Breeders"
-  ,
-  
-     "Animal Breeders"
-  ,
-  
-     "Graders and Sorters, Agricultural Products"
   ,
   
      "Graders and Sorters, Agricultural Products"
@@ -2689,9 +2128,6 @@ var occupation_names = [
   ,
   
      "Forest, Conservation, and Logging Workers"
-  ,
-  
-     "Forest and Conservation Workers"
   ,
   
      "Forest and Conservation Workers"
@@ -2721,13 +2157,7 @@ var occupation_names = [
      "First-Line Supervisors of Construction Trades and Extraction Workers"
   ,
   
-     "First-Line Supervisors of Construction Trades and Extraction Workers"
-  ,
-  
      "Construction Trades Workers"
-  ,
-  
-     "Boilermakers"
   ,
   
      "Boilermakers"
@@ -2740,9 +2170,6 @@ var occupation_names = [
   ,
   
      "Stonemasons"
-  ,
-  
-     "Carpenters"
   ,
   
      "Carpenters"
@@ -2775,9 +2202,6 @@ var occupation_names = [
      "Construction Laborers"
   ,
   
-     "Construction Laborers"
-  ,
-  
      "Construction Equipment Operators"
   ,
   
@@ -2800,12 +2224,6 @@ var occupation_names = [
   ,
   
      "Electricians"
-  ,
-  
-     "Electricians"
-  ,
-  
-     "Glaziers"
   ,
   
      "Glaziers"
@@ -2841,16 +2259,7 @@ var occupation_names = [
      "Plasterers and Stucco Masons"
   ,
   
-     "Plasterers and Stucco Masons"
-  ,
-  
      "Reinforcing Iron and Rebar Workers"
-  ,
-  
-     "Reinforcing Iron and Rebar Workers"
-  ,
-  
-     "Roofers"
   ,
   
      "Roofers"
@@ -2859,22 +2268,10 @@ var occupation_names = [
      "Sheet Metal Workers"
   ,
   
-     "Sheet Metal Workers"
-  ,
-  
-     "Structural Iron and Steel Workers"
-  ,
-  
      "Structural Iron and Steel Workers"
   ,
   
      "Solar Photovoltaic Installers"
-  ,
-  
-     "Solar Photovoltaic Installers"
-  ,
-  
-     "Helpers, Construction Trades"
   ,
   
      "Helpers, Construction Trades"
@@ -2907,16 +2304,7 @@ var occupation_names = [
      "Construction and Building Inspectors"
   ,
   
-     "Construction and Building Inspectors"
-  ,
-  
      "Elevator and Escalator Installers and Repairers"
-  ,
-  
-     "Elevator and Escalator Installers and Repairers"
-  ,
-  
-     "Fence Erectors"
   ,
   
      "Fence Erectors"
@@ -2925,28 +2313,13 @@ var occupation_names = [
      "Hazardous Materials Removal Workers"
   ,
   
-     "Hazardous Materials Removal Workers"
-  ,
-  
-     "Highway Maintenance Workers"
-  ,
-  
      "Highway Maintenance Workers"
   ,
   
      "Rail-Track Laying and Maintenance Equipment Operators"
   ,
   
-     "Rail-Track Laying and Maintenance Equipment Operators"
-  ,
-  
      "Septic Tank Servicers and Sewer Pipe Cleaners"
-  ,
-  
-     "Septic Tank Servicers and Sewer Pipe Cleaners"
-  ,
-  
-     "Miscellaneous Construction and Related Workers"
   ,
   
      "Miscellaneous Construction and Related Workers"
@@ -2982,16 +2355,7 @@ var occupation_names = [
      "Rock Splitters, Quarry"
   ,
   
-     "Rock Splitters, Quarry"
-  ,
-  
      "Roustabouts, Oil and Gas"
-  ,
-  
-     "Roustabouts, Oil and Gas"
-  ,
-  
-     "Helpers--Extraction Workers"
   ,
   
      "Helpers--Extraction Workers"
@@ -3012,13 +2376,7 @@ var occupation_names = [
      "First-Line Supervisors of Mechanics, Installers, and Repairers"
   ,
   
-     "First-Line Supervisors of Mechanics, Installers, and Repairers"
-  ,
-  
      "Electrical and Electronic Equipment Mechanics, Installers, and Repairers"
-  ,
-  
-     "Computer, Automated Teller, and Office Machine Repairers"
   ,
   
      "Computer, Automated Teller, and Office Machine Repairers"
@@ -3066,9 +2424,6 @@ var occupation_names = [
      "Aircraft Mechanics and Service Technicians"
   ,
   
-     "Aircraft Mechanics and Service Technicians"
-  ,
-  
      "Automotive Technicians and Repairers"
   ,
   
@@ -3079,9 +2434,6 @@ var occupation_names = [
   ,
   
      "Automotive Service Technicians and Mechanics"
-  ,
-  
-     "Bus and Truck Mechanics and Diesel Engine Specialists"
   ,
   
      "Bus and Truck Mechanics and Diesel Engine Specialists"
@@ -3138,12 +2490,6 @@ var occupation_names = [
      "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
   ,
   
-     "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
-  ,
-  
-     "Home Appliance Repairers"
-  ,
-  
      "Home Appliance Repairers"
   ,
   
@@ -3192,12 +2538,6 @@ var occupation_names = [
      "Maintenance and Repair Workers, General"
   ,
   
-     "Maintenance and Repair Workers, General"
-  ,
-  
-     "Wind Turbine Service Technicians"
-  ,
-  
      "Wind Turbine Service Technicians"
   ,
   
@@ -3237,13 +2577,7 @@ var occupation_names = [
      "First-Line Supervisors of Production and Operating Workers"
   ,
   
-     "First-Line Supervisors of Production and Operating Workers"
-  ,
-  
      "Assemblers and Fabricators"
-  ,
-  
-     "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
   ,
   
      "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
@@ -3261,37 +2595,19 @@ var occupation_names = [
      "Engine and Other Machine Assemblers"
   ,
   
-     "Engine and Other Machine Assemblers"
-  ,
-  
-     "Structural Metal Fabricators and Fitters"
-  ,
-  
      "Structural Metal Fabricators and Fitters"
   ,
   
      "Fiberglass Laminators and Fabricators"
   ,
   
-     "Fiberglass Laminators and Fabricators"
-  ,
-  
      "Timing Device Assemblers and Adjusters"
-  ,
-  
-     "Timing Device Assemblers and Adjusters"
-  ,
-  
-     "Miscellaneous Assemblers and Fabricators"
   ,
   
      "Miscellaneous Assemblers and Fabricators"
   ,
   
      "Food Processing Workers"
-  ,
-  
-     "Bakers"
   ,
   
      "Bakers"
@@ -3360,9 +2676,6 @@ var occupation_names = [
      "Machinists"
   ,
   
-     "Machinists"
-  ,
-  
      "Metal Furnace Operators, Tenders, Pourers, and Casters"
   ,
   
@@ -3391,12 +2704,6 @@ var occupation_names = [
   ,
   
      "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-  ,
-  
-     "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
-  ,
-  
-     "Tool and Die Makers"
   ,
   
      "Tool and Die Makers"
@@ -3432,9 +2739,6 @@ var occupation_names = [
      "Printing Workers"
   ,
   
-     "Printing Workers"
-  ,
-  
      "Prepress Technicians and Workers"
   ,
   
@@ -3450,16 +2754,7 @@ var occupation_names = [
      "Laundry and Dry-Cleaning Workers"
   ,
   
-     "Laundry and Dry-Cleaning Workers"
-  ,
-  
      "Pressers, Textile, Garment, and Related Materials"
-  ,
-  
-     "Pressers, Textile, Garment, and Related Materials"
-  ,
-  
-     "Sewing Machine Operators"
   ,
   
      "Sewing Machine Operators"
@@ -3519,12 +2814,6 @@ var occupation_names = [
      "Cabinetmakers and Bench Carpenters"
   ,
   
-     "Cabinetmakers and Bench Carpenters"
-  ,
-  
-     "Furniture Finishers"
-  ,
-  
      "Furniture Finishers"
   ,
   
@@ -3568,12 +2857,6 @@ var occupation_names = [
   ,
   
      "Stationary Engineers and Boiler Operators"
-  ,
-  
-     "Stationary Engineers and Boiler Operators"
-  ,
-  
-     "Water and Wastewater Treatment Plant and System Operators"
   ,
   
      "Water and Wastewater Treatment Plant and System Operators"
@@ -3630,22 +2913,10 @@ var occupation_names = [
      "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
   ,
   
-     "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
-  ,
-  
-     "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
-  ,
-  
      "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
   ,
   
      "Inspectors, Testers, Sorters, Samplers, and Weighers"
-  ,
-  
-     "Inspectors, Testers, Sorters, Samplers, and Weighers"
-  ,
-  
-     "Jewelers and Precious Stone and Metal Workers"
   ,
   
      "Jewelers and Precious Stone and Metal Workers"
@@ -3666,9 +2937,6 @@ var occupation_names = [
      "Packaging and Filling Machine Operators and Tenders"
   ,
   
-     "Packaging and Filling Machine Operators and Tenders"
-  ,
-  
      "Painting Workers"
   ,
   
@@ -3679,12 +2947,6 @@ var occupation_names = [
   ,
   
      "Semiconductor Processing Technicians"
-  ,
-  
-     "Semiconductor Processing Technicians"
-  ,
-  
-     "Photographic Process Workers and Processing Machine Operators"
   ,
   
      "Photographic Process Workers and Processing Machine Operators"
@@ -3768,13 +3030,7 @@ var occupation_names = [
      "Flight Attendants"
   ,
   
-     "Flight Attendants"
-  ,
-  
      "Motor Vehicle Operators"
-  ,
-  
-     "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
   ,
   
      "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
@@ -3822,16 +3078,7 @@ var occupation_names = [
      "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
   ,
   
-     "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
-  ,
-  
      "Railroad Conductors and Yardmasters"
-  ,
-  
-     "Railroad Conductors and Yardmasters"
-  ,
-  
-     "Subway and Streetcar Operators"
   ,
   
      "Subway and Streetcar Operators"
@@ -3849,9 +3096,6 @@ var occupation_names = [
      "Sailors and Marine Oilers"
   ,
   
-     "Sailors and Marine Oilers"
-  ,
-  
      "Ship and Boat Captains and Operators"
   ,
   
@@ -3864,19 +3108,10 @@ var occupation_names = [
      "Ship Engineers"
   ,
   
-     "Ship Engineers"
-  ,
-  
      "Other Transportation Workers"
   ,
   
      "Bridge and Lock Tenders"
-  ,
-  
-     "Bridge and Lock Tenders"
-  ,
-  
-     "Parking Attendants"
   ,
   
      "Parking Attendants"
@@ -3888,16 +3123,7 @@ var occupation_names = [
      "Traffic Technicians"
   ,
   
-     "Traffic Technicians"
-  ,
-  
      "Transportation Inspectors"
-  ,
-  
-     "Transportation Inspectors"
-  ,
-  
-     "Passenger Attendants"
   ,
   
      "Passenger Attendants"
@@ -3912,28 +3138,13 @@ var occupation_names = [
      "Conveyor Operators and Tenders"
   ,
   
-     "Conveyor Operators and Tenders"
-  ,
-  
-     "Crane and Tower Operators"
-  ,
-  
      "Crane and Tower Operators"
   ,
   
      "Dredge Operators"
   ,
   
-     "Dredge Operators"
-  ,
-  
      "Hoist and Winch Operators"
-  ,
-  
-     "Hoist and Winch Operators"
-  ,
-  
-     "Industrial Truck and Tractor Operators"
   ,
   
      "Industrial Truck and Tractor Operators"
@@ -3972,12 +3183,6 @@ var occupation_names = [
      "Refuse and Recyclable Material Collectors"
   ,
   
-     "Refuse and Recyclable Material Collectors"
-  ,
-  
-     "Tank Car, Truck, and Ship Loaders"
-  ,
-  
      "Tank Car, Truck, and Ship Loaders"
   ,
   
@@ -3985,8 +3190,10 @@ var occupation_names = [
   ,
   
      "Material Moving Workers, All Other"
+ 
   
 ];
+
 
 
 
@@ -4004,28 +3211,16 @@ var occupation_codes = [
      "11-1010"
   ,
   
-     "11-1011"
-  ,
-  
      "11-1020"
   ,
   
-     "11-1021"
-  ,
-  
      "11-1030"
-  ,
-  
-     "11-1031"
   ,
   
      "11-2000"
   ,
   
      "11-2010"
-  ,
-  
-     "11-2011"
   ,
   
      "11-2020"
@@ -4040,13 +3235,7 @@ var occupation_codes = [
      "11-2030"
   ,
   
-     "11-2030"
-  ,
-  
      "11-3000"
-  ,
-  
-     "11-3010"
   ,
   
      "11-3010"
@@ -4055,49 +3244,25 @@ var occupation_codes = [
      "11-3020"
   ,
   
-     "11-3021"
-  ,
-  
      "11-3030"
-  ,
-  
-     "11-3031"
   ,
   
      "11-3050"
   ,
   
-     "11-3051"
-  ,
-  
      "11-3060"
-  ,
-  
-     "11-3061"
   ,
   
      "11-3070"
   ,
   
-     "11-3071"
-  ,
-  
      "11-3110"
-  ,
-  
-     "11-3111"
   ,
   
      "11-3120"
   ,
   
-     "11-3121"
-  ,
-  
      "11-3130"
-  ,
-  
-     "11-3131"
   ,
   
      "11-9000"
@@ -4106,13 +3271,7 @@ var occupation_codes = [
      "11-9010"
   ,
   
-     "11-9013"
-  ,
-  
      "11-9020"
-  ,
-  
-     "11-9021"
   ,
   
      "11-9030"
@@ -4133,13 +3292,7 @@ var occupation_codes = [
      "11-9040"
   ,
   
-     "11-9041"
-  ,
-  
      "11-9050"
-  ,
-  
-     "11-9051"
   ,
   
      "11-9071"
@@ -4148,43 +3301,22 @@ var occupation_codes = [
      "11-9080"
   ,
   
-     "11-9081"
-  ,
-  
      "11-9110"
-  ,
-  
-     "11-9111"
   ,
   
      "11-9120"
   ,
   
-     "11-9121"
-  ,
-  
      "11-9130"
-  ,
-  
-     "11-9131"
   ,
   
      "11-9140"
   ,
   
-     "11-9141"
-  ,
-  
      "11-9150"
   ,
   
-     "11-9151"
-  ,
-  
      "11-9160"
-  ,
-  
-     "11-9161"
   ,
   
      "11-9171"
@@ -4202,12 +3334,6 @@ var occupation_codes = [
      "13-1010"
   ,
   
-     "13-1011"
-  ,
-  
-     "13-1020"
-  ,
-  
      "13-1020"
   ,
   
@@ -4223,13 +3349,7 @@ var occupation_codes = [
      "13-1040"
   ,
   
-     "13-1041"
-  ,
-  
      "13-1050"
-  ,
-  
-     "13-1051"
   ,
   
      "13-1070"
@@ -4250,37 +3370,19 @@ var occupation_codes = [
      "13-1110"
   ,
   
-     "13-1111"
-  ,
-  
      "13-1120"
-  ,
-  
-     "13-1121"
   ,
   
      "13-1130"
   ,
   
-     "13-1131"
-  ,
-  
      "13-1140"
-  ,
-  
-     "13-1141"
   ,
   
      "13-1150"
   ,
   
-     "13-1151"
-  ,
-  
      "13-1160"
-  ,
-  
-     "13-1161"
   ,
   
      "13-1198"
@@ -4292,25 +3394,13 @@ var occupation_codes = [
      "13-2010"
   ,
   
-     "13-2011"
-  ,
-  
-     "13-2020"
-  ,
-  
      "13-2020"
   ,
   
      "13-2030"
   ,
   
-     "13-2031"
-  ,
-  
      "13-2040"
-  ,
-  
-     "13-2041"
   ,
   
      "13-2052"
@@ -4320,9 +3410,6 @@ var occupation_codes = [
   ,
   
      "13-2060"
-  ,
-  
-     "13-2061"
   ,
   
      "13-2070"
@@ -4362,9 +3449,6 @@ var occupation_codes = [
   ,
   
      "15-1220"
-  ,
-  
-     "15-1221"
   ,
   
      "15-1230"
@@ -4412,25 +3496,13 @@ var occupation_codes = [
      "15-2010"
   ,
   
-     "15-2011"
-  ,
-  
      "15-2020"
-  ,
-  
-     "15-2021"
   ,
   
      "15-2030"
   ,
   
-     "15-2031"
-  ,
-  
      "15-2040"
-  ,
-  
-     "15-2041"
   ,
   
      "15-2098"
@@ -4466,37 +3538,19 @@ var occupation_codes = [
      "17-2010"
   ,
   
-     "17-2011"
-  ,
-  
      "17-2020"
-  ,
-  
-     "17-2021"
   ,
   
      "17-2030"
   ,
   
-     "17-2031"
-  ,
-  
      "17-2040"
-  ,
-  
-     "17-2041"
   ,
   
      "17-2050"
   ,
   
-     "17-2051"
-  ,
-  
      "17-2060"
-  ,
-  
-     "17-2061"
   ,
   
      "17-2070"
@@ -4511,9 +3565,6 @@ var occupation_codes = [
      "17-2080"
   ,
   
-     "17-2081"
-  ,
-  
      "17-2110"
   ,
   
@@ -4526,37 +3577,19 @@ var occupation_codes = [
      "17-2120"
   ,
   
-     "17-2121"
-  ,
-  
      "17-2130"
-  ,
-  
-     "17-2131"
   ,
   
      "17-2140"
   ,
   
-     "17-2141"
-  ,
-  
      "17-2150"
-  ,
-  
-     "17-2151"
   ,
   
      "17-2160"
   ,
   
-     "17-2161"
-  ,
-  
      "17-2170"
-  ,
-  
-     "17-2171"
   ,
   
      "17-2190"
@@ -4608,9 +3641,6 @@ var occupation_codes = [
   ,
   
      "17-3030"
-  ,
-  
-     "17-3031"
   ,
   
      "17-3098"
@@ -4688,9 +3718,6 @@ var occupation_codes = [
      "19-2020"
   ,
   
-     "19-2021"
-  ,
-  
      "19-2030"
   ,
   
@@ -4724,13 +3751,7 @@ var occupation_codes = [
      "19-3010"
   ,
   
-     "19-3011"
-  ,
-  
      "19-3020"
-  ,
-  
-     "19-3022"
   ,
   
      "19-3030"
@@ -4748,13 +3769,7 @@ var occupation_codes = [
      "19-3040"
   ,
   
-     "19-3041"
-  ,
-  
      "19-3050"
-  ,
-  
-     "19-3051"
   ,
   
      "19-3090"
@@ -4781,19 +3796,10 @@ var occupation_codes = [
      "19-4010"
   ,
   
-     "19-4010"
-  ,
-  
      "19-4020"
   ,
   
-     "19-4021"
-  ,
-  
      "19-4030"
-  ,
-  
-     "19-4031"
   ,
   
      "19-4040"
@@ -4808,19 +3814,10 @@ var occupation_codes = [
      "19-4050"
   ,
   
-     "19-4051"
-  ,
-  
      "19-4060"
   ,
   
-     "19-4061"
-  ,
-  
      "19-4070"
-  ,
-  
-     "19-4071"
   ,
   
      "19-4090"
@@ -4833,9 +3830,6 @@ var occupation_codes = [
   ,
   
      "19-5000"
-  ,
-  
-     "19-5010"
   ,
   
      "19-5011"
@@ -4907,13 +3901,7 @@ var occupation_codes = [
      "21-2010"
   ,
   
-     "21-2011"
-  ,
-  
      "21-2020"
-  ,
-  
-     "21-2021"
   ,
   
      "21-2090"
@@ -4955,9 +3943,6 @@ var occupation_codes = [
      "23-2010"
   ,
   
-     "23-2011"
-  ,
-  
      "23-2090"
   ,
   
@@ -4974,9 +3959,6 @@ var occupation_codes = [
   ,
   
      "25-1010"
-  ,
-  
-     "25-1011"
   ,
   
      "25-1020"
@@ -5174,19 +4156,10 @@ var occupation_codes = [
      "25-3010"
   ,
   
-     "25-3011"
-  ,
-  
      "25-3020"
   ,
   
-     "25-3021"
-  ,
-  
      "25-3030"
-  ,
-  
-     "25-3031"
   ,
   
      "25-3097"
@@ -5210,13 +4183,7 @@ var occupation_codes = [
      "25-4020"
   ,
   
-     "25-4022"
-  ,
-  
      "25-4030"
-  ,
-  
-     "25-4031"
   ,
   
      "25-9000"
@@ -5225,13 +4192,7 @@ var occupation_codes = [
      "25-9020"
   ,
   
-     "25-9021"
-  ,
-  
      "25-9030"
-  ,
-  
-     "25-9031"
   ,
   
      "25-9040"
@@ -5345,16 +4306,10 @@ var occupation_codes = [
      "27-2090"
   ,
   
-     "27-2090"
-  ,
-  
      "27-3000"
   ,
   
      "27-3010"
-  ,
-  
-     "27-3011"
   ,
   
      "27-3020"
@@ -5364,9 +4319,6 @@ var occupation_codes = [
   ,
   
      "27-3030"
-  ,
-  
-     "27-3031"
   ,
   
      "27-3040"
@@ -5408,9 +4360,6 @@ var occupation_codes = [
      "27-4020"
   ,
   
-     "27-4021"
-  ,
-  
      "27-4030"
   ,
   
@@ -5430,9 +4379,6 @@ var occupation_codes = [
   ,
   
      "29-1010"
-  ,
-  
-     "29-1011"
   ,
   
      "29-1020"
@@ -5456,31 +4402,16 @@ var occupation_codes = [
      "29-1030"
   ,
   
-     "29-1031"
-  ,
-  
      "29-1040"
-  ,
-  
-     "29-1041"
   ,
   
      "29-1050"
   ,
   
-     "29-1051"
-  ,
-  
      "29-1070"
   ,
   
-     "29-1071"
-  ,
-  
      "29-1080"
-  ,
-  
-     "29-1081"
   ,
   
      "29-1120"
@@ -5513,37 +4444,19 @@ var occupation_codes = [
      "29-1130"
   ,
   
-     "29-1131"
-  ,
-  
      "29-1140"
-  ,
-  
-     "29-1141"
   ,
   
      "29-1150"
   ,
   
-     "29-1151"
-  ,
-  
      "29-1160"
-  ,
-  
-     "29-1161"
   ,
   
      "29-1170"
   ,
   
-     "29-1171"
-  ,
-  
      "29-1180"
-  ,
-  
-     "29-1181"
   ,
   
      "29-1211"
@@ -5585,9 +4498,6 @@ var occupation_codes = [
      "29-2010"
   ,
   
-     "29-2010"
-  ,
-  
      "29-2031"
   ,
   
@@ -5601,9 +4511,6 @@ var occupation_codes = [
   ,
   
      "29-2035"
-  ,
-  
-     "29-2040"
   ,
   
      "29-2040"
@@ -5633,13 +4540,7 @@ var occupation_codes = [
      "29-2060"
   ,
   
-     "29-2061"
-  ,
-  
      "29-2080"
-  ,
-  
-     "29-2081"
   ,
   
      "29-2091"
@@ -5667,9 +4568,6 @@ var occupation_codes = [
   ,
   
      "31-1100"
-  ,
-  
-     "31-1120"
   ,
   
      "31-1120"
@@ -5712,9 +4610,6 @@ var occupation_codes = [
   ,
   
      "31-9010"
-  ,
-  
-     "31-9011"
   ,
   
      "31-9090"
@@ -5762,12 +4657,6 @@ var occupation_codes = [
      "33-1020"
   ,
   
-     "33-1021"
-  ,
-  
-     "33-1090"
-  ,
-  
      "33-1090"
   ,
   
@@ -5775,9 +4664,6 @@ var occupation_codes = [
   ,
   
      "33-2010"
-  ,
-  
-     "33-2011"
   ,
   
      "33-2020"
@@ -5804,19 +4690,10 @@ var occupation_codes = [
      "33-3020"
   ,
   
-     "33-3021"
-  ,
-  
      "33-3030"
   ,
   
-     "33-3031"
-  ,
-  
      "33-3040"
-  ,
-  
-     "33-3041"
   ,
   
      "33-3050"
@@ -5834,13 +4711,7 @@ var occupation_codes = [
      "33-9010"
   ,
   
-     "33-9011"
-  ,
-  
      "33-9020"
-  ,
-  
-     "33-9021"
   ,
   
      "33-9030"
@@ -5871,9 +4742,6 @@ var occupation_codes = [
   ,
   
      "35-1000"
-  ,
-  
-     "35-1010"
   ,
   
      "35-1011"
@@ -5909,34 +4777,19 @@ var occupation_codes = [
      "35-2020"
   ,
   
-     "35-2021"
-  ,
-  
      "35-3000"
   ,
   
      "35-3010"
   ,
   
-     "35-3011"
-  ,
-  
      "35-3020"
-  ,
-  
-     "35-3023"
   ,
   
      "35-3030"
   ,
   
-     "35-3031"
-  ,
-  
      "35-3040"
-  ,
-  
-     "35-3041"
   ,
   
      "35-9000"
@@ -5945,19 +4798,10 @@ var occupation_codes = [
      "35-9010"
   ,
   
-     "35-9011"
-  ,
-  
      "35-9020"
   ,
   
-     "35-9021"
-  ,
-  
      "35-9030"
-  ,
-  
-     "35-9031"
   ,
   
      "35-9090"
@@ -5999,13 +4843,7 @@ var occupation_codes = [
      "37-2020"
   ,
   
-     "37-2021"
-  ,
-  
      "37-3000"
-  ,
-  
-     "37-3010"
   ,
   
      "37-3011"
@@ -6038,13 +4876,7 @@ var occupation_codes = [
      "39-2010"
   ,
   
-     "39-2011"
-  ,
-  
      "39-2020"
-  ,
-  
-     "39-2021"
   ,
   
      "39-3000"
@@ -6065,13 +4897,7 @@ var occupation_codes = [
      "39-3020"
   ,
   
-     "39-3021"
-  ,
-  
      "39-3030"
-  ,
-  
-     "39-3031"
   ,
   
      "39-3090"
@@ -6095,13 +4921,7 @@ var occupation_codes = [
      "39-4020"
   ,
   
-     "39-4021"
-  ,
-  
      "39-4030"
-  ,
-  
-     "39-4031"
   ,
   
      "39-5000"
@@ -6134,9 +4954,6 @@ var occupation_codes = [
      "39-6000"
   ,
   
-     "39-6010"
-  ,
-  
      "39-6011"
   ,
   
@@ -6146,16 +4963,7 @@ var occupation_codes = [
      "39-7000"
   ,
   
-     "39-7010"
-  ,
-  
-     "39-7010"
-  ,
-  
      "39-9010"
-  ,
-  
-     "39-9011"
   ,
   
      "39-9030"
@@ -6168,9 +4976,6 @@ var occupation_codes = [
   ,
   
      "39-9040"
-  ,
-  
-     "39-9041"
   ,
   
      "39-9098"
@@ -6197,9 +5002,6 @@ var occupation_codes = [
      "41-2010"
   ,
   
-     "41-2011"
-  ,
-  
      "41-2012"
   ,
   
@@ -6215,34 +5017,19 @@ var occupation_codes = [
      "41-2030"
   ,
   
-     "41-2031"
-  ,
-  
      "41-3000"
   ,
   
      "41-3010"
   ,
   
-     "41-3011"
-  ,
-  
      "41-3020"
-  ,
-  
-     "41-3021"
   ,
   
      "41-3030"
   ,
   
-     "41-3031"
-  ,
-  
      "41-3040"
-  ,
-  
-     "41-3041"
   ,
   
      "41-3090"
@@ -6252,9 +5039,6 @@ var occupation_codes = [
   ,
   
      "41-4000"
-  ,
-  
-     "41-4010"
   ,
   
      "41-4011"
@@ -6287,13 +5071,7 @@ var occupation_codes = [
      "41-9030"
   ,
   
-     "41-9031"
-  ,
-  
      "41-9040"
-  ,
-  
-     "41-9041"
   ,
   
      "41-9090"
@@ -6314,22 +5092,13 @@ var occupation_codes = [
      "43-1010"
   ,
   
-     "43-1011"
-  ,
-  
      "43-2000"
   ,
   
      "43-2010"
   ,
   
-     "43-2011"
-  ,
-  
      "43-2020"
-  ,
-  
-     "43-2021"
   ,
   
      "43-2090"
@@ -6344,43 +5113,22 @@ var occupation_codes = [
      "43-3010"
   ,
   
-     "43-3011"
-  ,
-  
      "43-3020"
-  ,
-  
-     "43-3021"
   ,
   
      "43-3030"
   ,
   
-     "43-3031"
-  ,
-  
      "43-3040"
-  ,
-  
-     "43-3041"
   ,
   
      "43-3050"
   ,
   
-     "43-3051"
-  ,
-  
      "43-3060"
   ,
   
-     "43-3061"
-  ,
-  
      "43-3070"
-  ,
-  
-     "43-3071"
   ,
   
      "43-3090"
@@ -6395,97 +5143,49 @@ var occupation_codes = [
      "43-4010"
   ,
   
-     "43-4011"
-  ,
-  
      "43-4020"
-  ,
-  
-     "43-4021"
   ,
   
      "43-4030"
   ,
   
-     "43-4031"
-  ,
-  
      "43-4040"
-  ,
-  
-     "43-4041"
   ,
   
      "43-4050"
   ,
   
-     "43-4051"
-  ,
-  
      "43-4060"
-  ,
-  
-     "43-4061"
   ,
   
      "43-4070"
   ,
   
-     "43-4071"
-  ,
-  
      "43-4080"
-  ,
-  
-     "43-4081"
   ,
   
      "43-4110"
   ,
   
-     "43-4111"
-  ,
-  
      "43-4120"
-  ,
-  
-     "43-4121"
   ,
   
      "43-4130"
   ,
   
-     "43-4131"
-  ,
-  
      "43-4140"
-  ,
-  
-     "43-4141"
   ,
   
      "43-4150"
   ,
   
-     "43-4151"
-  ,
-  
      "43-4160"
-  ,
-  
-     "43-4161"
   ,
   
      "43-4170"
   ,
   
-     "43-4171"
-  ,
-  
      "43-4180"
-  ,
-  
-     "43-4181"
   ,
   
      "43-4190"
@@ -6500,13 +5200,7 @@ var occupation_codes = [
      "43-5010"
   ,
   
-     "43-5011"
-  ,
-  
      "43-5020"
-  ,
-  
-     "43-5021"
   ,
   
      "43-5030"
@@ -6519,9 +5213,6 @@ var occupation_codes = [
   ,
   
      "43-5040"
-  ,
-  
-     "43-5041"
   ,
   
      "43-5050"
@@ -6539,25 +5230,13 @@ var occupation_codes = [
      "43-5060"
   ,
   
-     "43-5061"
-  ,
-  
      "43-5070"
-  ,
-  
-     "43-5071"
   ,
   
      "43-5110"
   ,
   
-     "43-5111"
-  ,
-  
      "43-6000"
-  ,
-  
-     "43-6010"
   ,
   
      "43-6011"
@@ -6587,43 +5266,22 @@ var occupation_codes = [
      "43-9030"
   ,
   
-     "43-9031"
-  ,
-  
      "43-9040"
-  ,
-  
-     "43-9041"
   ,
   
      "43-9050"
   ,
   
-     "43-9051"
-  ,
-  
      "43-9060"
-  ,
-  
-     "43-9061"
   ,
   
      "43-9070"
   ,
   
-     "43-9071"
-  ,
-  
      "43-9080"
   ,
   
-     "43-9081"
-  ,
-  
      "43-9110"
-  ,
-  
-     "43-9111"
   ,
   
      "43-9190"
@@ -6641,28 +5299,16 @@ var occupation_codes = [
      "45-1010"
   ,
   
-     "45-1011"
-  ,
-  
      "45-2000"
   ,
   
      "45-2010"
   ,
   
-     "45-2011"
-  ,
-  
      "45-2020"
   ,
   
-     "45-2021"
-  ,
-  
      "45-2040"
-  ,
-  
-     "45-2041"
   ,
   
      "45-2090"
@@ -6684,9 +5330,6 @@ var occupation_codes = [
   ,
   
      "45-4010"
-  ,
-  
-     "45-4011"
   ,
   
      "45-4020"
@@ -6713,16 +5356,10 @@ var occupation_codes = [
      "47-1010"
   ,
   
-     "47-1011"
-  ,
-  
      "47-2000"
   ,
   
      "47-2010"
-  ,
-  
-     "47-2011"
   ,
   
      "47-2020"
@@ -6735,9 +5372,6 @@ var occupation_codes = [
   ,
   
      "47-2030"
-  ,
-  
-     "47-2031"
   ,
   
      "47-2040"
@@ -6767,9 +5401,6 @@ var occupation_codes = [
      "47-2060"
   ,
   
-     "47-2061"
-  ,
-  
      "47-2070"
   ,
   
@@ -6794,13 +5425,7 @@ var occupation_codes = [
      "47-2110"
   ,
   
-     "47-2111"
-  ,
-  
      "47-2120"
-  ,
-  
-     "47-2121"
   ,
   
      "47-2130"
@@ -6833,43 +5458,22 @@ var occupation_codes = [
      "47-2160"
   ,
   
-     "47-2161"
-  ,
-  
      "47-2170"
-  ,
-  
-     "47-2171"
   ,
   
      "47-2180"
   ,
   
-     "47-2181"
-  ,
-  
      "47-2210"
-  ,
-  
-     "47-2211"
   ,
   
      "47-2220"
   ,
   
-     "47-2221"
-  ,
-  
      "47-2230"
   ,
   
-     "47-2231"
-  ,
-  
      "47-3000"
-  ,
-  
-     "47-3010"
   ,
   
      "47-3011"
@@ -6899,46 +5503,22 @@ var occupation_codes = [
      "47-4010"
   ,
   
-     "47-4011"
-  ,
-  
      "47-4020"
-  ,
-  
-     "47-4021"
   ,
   
      "47-4030"
   ,
   
-     "47-4031"
-  ,
-  
      "47-4040"
-  ,
-  
-     "47-4041"
   ,
   
      "47-4050"
   ,
   
-     "47-4051"
-  ,
-  
      "47-4060"
   ,
   
-     "47-4061"
-  ,
-  
      "47-4070"
-  ,
-  
-     "47-4071"
-  ,
-  
-     "47-4090"
   ,
   
      "47-4090"
@@ -6974,19 +5554,10 @@ var occupation_codes = [
      "47-5050"
   ,
   
-     "47-5051"
-  ,
-  
      "47-5070"
   ,
   
-     "47-5071"
-  ,
-  
      "47-5080"
-  ,
-  
-     "47-5081"
   ,
   
      "47-5097"
@@ -7004,16 +5575,10 @@ var occupation_codes = [
      "49-1010"
   ,
   
-     "49-1011"
-  ,
-  
      "49-2000"
   ,
   
      "49-2010"
-  ,
-  
-     "49-2011"
   ,
   
      "49-2020"
@@ -7058,9 +5623,6 @@ var occupation_codes = [
      "49-3010"
   ,
   
-     "49-3011"
-  ,
-  
      "49-3020"
   ,
   
@@ -7074,9 +5636,6 @@ var occupation_codes = [
   ,
   
      "49-3030"
-  ,
-  
-     "49-3031"
   ,
   
      "49-3040"
@@ -7130,13 +5689,7 @@ var occupation_codes = [
      "49-9020"
   ,
   
-     "49-9021"
-  ,
-  
      "49-9030"
-  ,
-  
-     "49-9031"
   ,
   
      "49-9040"
@@ -7184,13 +5737,7 @@ var occupation_codes = [
      "49-9070"
   ,
   
-     "49-9071"
-  ,
-  
      "49-9080"
-  ,
-  
-     "49-9081"
   ,
   
      "49-9090"
@@ -7229,16 +5776,10 @@ var occupation_codes = [
      "51-1010"
   ,
   
-     "51-1011"
-  ,
-  
      "51-2000"
   ,
   
      "51-2010"
-  ,
-  
-     "51-2011"
   ,
   
      "51-2020"
@@ -7253,28 +5794,13 @@ var occupation_codes = [
      "51-2030"
   ,
   
-     "51-2031"
-  ,
-  
      "51-2040"
-  ,
-  
-     "51-2041"
   ,
   
      "51-2050"
   ,
   
-     "51-2051"
-  ,
-  
      "51-2060"
-  ,
-  
-     "51-2061"
-  ,
-  
-     "51-2090"
   ,
   
      "51-2090"
@@ -7284,9 +5810,6 @@ var occupation_codes = [
   ,
   
      "51-3010"
-  ,
-  
-     "51-3011"
   ,
   
      "51-3020"
@@ -7352,9 +5875,6 @@ var occupation_codes = [
      "51-4040"
   ,
   
-     "51-4041"
-  ,
-  
      "51-4050"
   ,
   
@@ -7385,13 +5905,7 @@ var occupation_codes = [
      "51-4080"
   ,
   
-     "51-4081"
-  ,
-  
      "51-4110"
-  ,
-  
-     "51-4111"
   ,
   
      "51-4120"
@@ -7424,9 +5938,6 @@ var occupation_codes = [
      "51-5100"
   ,
   
-     "51-5110"
-  ,
-  
      "51-5111"
   ,
   
@@ -7442,19 +5953,10 @@ var occupation_codes = [
      "51-6010"
   ,
   
-     "51-6011"
-  ,
-  
      "51-6020"
   ,
   
-     "51-6021"
-  ,
-  
      "51-6030"
-  ,
-  
-     "51-6031"
   ,
   
      "51-6040"
@@ -7511,13 +6013,7 @@ var occupation_codes = [
      "51-7010"
   ,
   
-     "51-7011"
-  ,
-  
      "51-7020"
-  ,
-  
-     "51-7021"
   ,
   
      "51-7030"
@@ -7562,13 +6058,7 @@ var occupation_codes = [
      "51-8020"
   ,
   
-     "51-8021"
-  ,
-  
      "51-8030"
-  ,
-  
-     "51-8031"
   ,
   
      "51-8090"
@@ -7622,25 +6112,13 @@ var occupation_codes = [
      "51-9040"
   ,
   
-     "51-9041"
-  ,
-  
      "51-9050"
-  ,
-  
-     "51-9051"
   ,
   
      "51-9060"
   ,
   
-     "51-9061"
-  ,
-  
      "51-9070"
-  ,
-  
-     "51-9071"
   ,
   
      "51-9080"
@@ -7658,9 +6136,6 @@ var occupation_codes = [
      "51-9110"
   ,
   
-     "51-9111"
-  ,
-  
      "51-9120"
   ,
   
@@ -7673,13 +6148,7 @@ var occupation_codes = [
      "51-9140"
   ,
   
-     "51-9141"
-  ,
-  
      "51-9150"
-  ,
-  
-     "51-9151"
   ,
   
      "51-9160"
@@ -7760,16 +6229,10 @@ var occupation_codes = [
      "53-2030"
   ,
   
-     "53-2031"
-  ,
-  
      "53-3000"
   ,
   
      "53-3010"
-  ,
-  
-     "53-3011"
   ,
   
      "53-3030"
@@ -7814,19 +6277,10 @@ var occupation_codes = [
      "53-4020"
   ,
   
-     "53-4022"
-  ,
-  
      "53-4030"
   ,
   
-     "53-4031"
-  ,
-  
      "53-4040"
-  ,
-  
-     "53-4041"
   ,
   
      "53-4090"
@@ -7841,9 +6295,6 @@ var occupation_codes = [
      "53-5010"
   ,
   
-     "53-5011"
-  ,
-  
      "53-5020"
   ,
   
@@ -7856,22 +6307,13 @@ var occupation_codes = [
      "53-5030"
   ,
   
-     "53-5031"
-  ,
-  
      "53-6000"
   ,
   
      "53-6010"
   ,
   
-     "53-6011"
-  ,
-  
      "53-6020"
-  ,
-  
-     "53-6021"
   ,
   
      "53-6031"
@@ -7880,19 +6322,10 @@ var occupation_codes = [
      "53-6040"
   ,
   
-     "53-6041"
-  ,
-  
      "53-6050"
   ,
   
-     "53-6051"
-  ,
-  
      "53-6060"
-  ,
-  
-     "53-6061"
   ,
   
      "53-6098"
@@ -7904,31 +6337,16 @@ var occupation_codes = [
      "53-7010"
   ,
   
-     "53-7011"
-  ,
-  
      "53-7020"
-  ,
-  
-     "53-7021"
   ,
   
      "53-7030"
   ,
   
-     "53-7031"
-  ,
-  
      "53-7040"
   ,
   
-     "53-7041"
-  ,
-  
      "53-7050"
-  ,
-  
-     "53-7051"
   ,
   
      "53-7060"
@@ -7964,13 +6382,7 @@ var occupation_codes = [
      "53-7080"
   ,
   
-     "53-7081"
-  ,
-  
      "53-7120"
-  ,
-  
-     "53-7121"
   ,
   
      "53-7190"
@@ -7979,5 +6391,3 @@ var occupation_codes = [
      "53-7199"
   
 ];
-
-
